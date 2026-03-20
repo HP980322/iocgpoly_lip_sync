@@ -61,8 +61,6 @@ Blender 5.0 uses the new **Extensions** workflow.
 
 ## 📜 License & Credits
 
-- **License:** [GNU General Public License v3.0 or later](https://spdx.org/licenses/GPL-3.0-or-later.html).
-- **Maintainer:** [Charley 3D](https://github.com/charley3d)
-
----
-Made with ❤️ by [Charley 3D](https://github.com/charley3d)
+- **Original Creator:** [Charley 3D](https://github.com/charley3d)
+- **5.0 Port & Maintenance:** [HP3D](https://github.com/HP980322) (rjblwhp@gmail.com)
+- **License:** [GNU General Public License v3.0 or later](https://spdx.org/licenses/GPL-3.0-or-later.html)
